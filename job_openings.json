@@ -1,17 +1,188 @@
 [
   {
-    "Job Title": "Product Manager",
-    "Description ": "The Product Manager leads cross-functional teams to develop and deliver high-impact products. This role requires balancing strategic thinking with detailed execution, focusing on user needs, business goals, and technical feasibility.",
-    "Application Link": "https://apply.workable.com/lucidya/j/531F7098A4/"
+    "Number":1.0,
+    "Job Title":"Digital Insights Analyst ",
+    "Description":"Description\nJoin one of MENA’s fastest-growing AI-powered SaaS startups, backed by the region’s most respected investors and recognized by the World Economic Forum as one of the top promising companies. At Lucidya, we’re revolutionizing how businesses understand and engage with their Arabic-speaking customers using cutting-edge AI and big data technologies.\n\nNow’s your chance to be part of something big, to shape the future of digital customer experiences in the region, right from the heart of Riyadh.\n\nAbout the Role:\n\nWe’re looking for a sharp, curious, and culturally attuned Digital Insights Analyst to focus on a single, high-impact client account. You’ll dive deep into data to uncover trends, measure campaign performance, and provide actionable insights to senior decision-makers - primarily Social Media and CX Directors.\n\nThis project-based role offers you the space to specialize and focus your full attention on a single client, without the distractions of multiple projects. You’ll play a direct role in helping brands refine their social strategies and better connect with their audiences.\n\nWhat You’ll Do:\n\nTrack and analyze social media post performance across platforms.\nSpot trends, hashtags, and cultural shifts relevant to the brand.\nMonitor mentions and conversations for brand reputation insights.\nTranslate numbers into stories - create impactful reports with clear takeaways and next steps.\nProvide feedback to content teams based on data-driven analysis.\nEnsure quality across all reporting - proofreading, consistency checks, and accuracy reviews.\nCollaborate with internal stakeholders to support marketing, sales, and client requests with high-quality insights.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/1F6C067133\/"
   },
   {
-    "Job Title": "HR Manager",
-    "Description ": "The HR Manager oversees all aspects of human resources practices and processes. The role is critical in ensuring a positive employee experience, aligning HR strategies with business goals, and promoting a strong organizational culture.",
-    "Application Link": "https://apply.workable.com/lucidya/j/100DF0A995/"
+    "Number":2.0,
+    "Job Title":"Revenue Accounting & Billing Sr. Manager\n",
+    "Description":"We are hiring a highly skilled and detail-oriented Revenue Accounting & Billing Sr. Manager to lead and own our revenue recognition and billing operations. This role is critical to ensuring that our revenue accounting practices meet global standards (ASC 606 \/ IFRS 15), with a specific focus on preparing the company for audit-readiness and IPO compliance.\n\nThe ideal candidate brings deep expertise in SaaS billing and revenue operations, has experience working with top-tier auditors (Big Four or equivalent), and is confident in collaborating cross-functionally with Sales, Customer Success, Legal, and senior leadership.\n\n",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/531F7098A4\/"
   },
   {
-    "Job Title": "Mobile Developer",
-    "Description ": "The Mobile Developer is responsible for creating, testing, and deploying mobile applications for iOS and/or Android platforms. They collaborate with product teams to build seamless, performant, and user-friendly experiences.",
-    "Application Link": "https://apply.workable.com/lucidya/j/1D46B2CED3/"
+    "Number":3.0,
+    "Job Title":"Talent Acquisition Lead",
+    "Description":"We’re seeking a dynamic and proactive Talent Acquisition Lead to lead our efforts in attracting, assessing, and onboarding early-career talent. This is a high-impact role focused on building talent pipelines, partnering with universities, and optimizing the hiring journey for fresh graduates and key commercial roles. The ideal candidate is a Saudi national with strong recruitment experience and the ability to thrive in a fast-paced, ever-changing environment.\n",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/840F54D259\/"
+  },
+  {
+    "Number":4.0,
+    "Job Title":"Mobile Developer",
+    "Description":"Lucidya is seeking a skilled Mobile Developer to join our dynamic team. In this role, you will be responsible for designing, developing, and maintaining mobile applications that provide a seamless user experience on both iOS and Android platforms. You will collaborate with our UI\/UX designers to bring designs to life and work closely with backend developers to integrate mobile applications with server-side logic.\n\nAs a Mobile Developer at Lucidya, you will have the chance to work on innovative projects that leverage Machine Learning and Big Data technologies to analyze content from various data sources. We are looking for someone who is passionate about mobile technology and is eager to contribute to our mission.\n\n",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/1D46B2CED3\/"
+  },
+  {
+    "Number":5.0,
+    "Job Title":"Database Administrator (DBA)\n",
+    "Description":"As a Database Administrator (DBA), you will make sure that production databases are up and running smoothly 24\/7. Your main goal is to provide a seamless flow of information throughout Lucidya services by maximizing the product uptime. We expect you to learn fast how our system is designed and to adapt fast to changing technologies where you will be exposed to a complex environment that includes several database systems such as: MySQL, PostgreSQL, Cassandra, ElasticSearch, etc. Lucidya offers a result-driven, fun, and dynamic environment full of challenges. Apply only if scale and complexity excite you.\n\n",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/CC8E317F9C\/"
+  },
+  {
+    "Number":6.0,
+    "Job Title":"Communication and Content Senior Specialist",
+    "Description":"We are seeking a dynamic Communication and Content Senior Specialist to manage and enhance our communication activities across multiple platforms. This role requires strong attention to detail, excellent language skills in both Arabic and English, and the ability to coordinate a range of tasks, from social media management to content creation and publication oversight.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/BF2C8DAB75\/"
+  },
+  {
+    "Number":7.0,
+    "Job Title":"People & Admin Specialist\n",
+    "Description":"We’re hiring a People & Admin Specialist to serve as the operational backbone of our People function in Saudi Arabia. This is a critical role that ensures the seamless execution of day-to-day HR activities and administrative operations. You’ll be the key link between our Talent Acquisition, HRIS, Finance, and Administration teams, making sure data is accurate, processes are timely, and employees are supported at every step.\n\nWithout someone in this seat, we risk operational inefficiencies across payroll, onboarding, documentation, and office management. Your role is essential in maintaining compliance, improving our employee experience, and ensuring Lucidya’s continued growth.\n\n",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/100DF0A995\/"
+  },
+  {
+    "Number":8.0,
+    "Job Title":"Technical Information Architect\n",
+    "Description":"Lucidya is seeking a highly organized and technically savvy Technical Information Architect to join our engineering organization. In this role, you will be the driving force behind the structure and usability of our internal technical documentation. Your mission will be to bridge the gap between development, product, DevOps, and system administration documentation by creating a cohesive and intuitive documentation ecosystem.\n\nYou will collaborate closely with developers, UX designers, DevOps engineers, and product managers to gather, refine, and structure documentation in a way that enhances discoverability and improves developer experience. This role is critical to ensuring that Lucidya’s engineers spend less time hunting for information and more time building high-impact features.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/6EACBC854A\/"
+  },
+  {
+    "Number":9.0,
+    "Job Title":"Staff Engineer\n",
+    "Description":"At Lucidya, we harness the power of Machine Learning and Big Data to empower businesses with actionable insights through social listening, customer experience, and data analytics platforms. Our engineering culture promotes innovation, autonomy, and impact. We build products that shape how brands understand and serve their customers.\n\nWe are seeking a Staff Engineer with deep backend expertise in Ruby on Rails or Python to take ownership of final design reviews and ensure technical implementations align with Lucidya’s architecture standards and product vision. You’ll act as a technical authority, collaborating across teams to deliver scalable, secure, and high-quality software systems.\n\nThis is a hands-on leadership role suited for someone passionate about driving architectural integrity and mentoring engineering teams.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/690AC776A2\/"
+  },
+  {
+    "Number":10.0,
+    "Job Title":"Software Architect\n",
+    "Description":"As a Software Architect at Lucidya, you will be responsible for the high-level design and architecture of our innovative product that leverages Machine Learning and Big Data technologies for content analysis. You will lead and mentor a team of software engineers, ensuring that best practices in software design and architecture are followed while continuously driving technical excellence.\n\nIn this role, you will collaborate closely with product managers, developers, and other stakeholders to define key software architecture decisions, frameworks, and technology stacks that align with our business goals. You will also focus on the scalability, performance, and security of our systems and ensure seamless integration of components across the architecture.\n\nYou will have the opportunity to work with the latest technology trends and practices, shaping the future direction of our products. If you have a passion for technology and the ability to convey complex technical concepts to diverse audiences, we would love to hear from you!\n\n",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/3D1EE940EE\/"
+  },
+  {
+    "Number":11.0,
+    "Job Title":"Backend Team Lead\n",
+    "Description":"Lucidya is in search of a proactive and talented Backend Team Lead to spearhead our backend development efforts. In this pivotal role, you will oversee a skilled team of backend developers, ensuring that our systems are designed for performance, scalability, and maintainability. With a deep understanding of best practices in backend architecture, you will guide your team in delivering high-quality software solutions that leverage our machine learning and big data capabilities.\n\nYour responsibilities will include setting development standards, mentoring team members, and collaborating with cross-functional teams to align backend development with our overall product strategy. You will also be deeply involved in coding, refactoring, and optimizing backend services, as well as reviewing code to maintain robust and efficient systems.\n\nThe ideal candidate will be a hands-on leader with experience in backend technologies such as Python, Ruby on Rails, and databases like PostgreSQL or Cassandra. Strong communication skills and a passion for fostering teamwork and innovation are essential for success in this role. You will be a key player in shaping the future of our backend systems at Lucidya.\n\n",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/05C513BDA0\/"
+  },
+  {
+    "Number":12.0,
+    "Job Title":"AI Engineer",
+    "Description":"The purpose of an AI engineer position is to design, develop, and implement artificial intelligence solutions to address complex problems and enhance processes within an organization. This role aims to leverage advanced algorithms, machine learning, and deep learning techniques to create intelligent systems that can analyze data, make predictions, and automate tasks. Ultimately, the AI engineer contributes to technological innovation, improves efficiency, and helps the organization stay competitive by harnessing the power of artificial intelligence in various applications, such as data analysis, image recognition, natural language processing, and more.\n\n\n",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/2C92E7942D\/"
+  },
+  {
+    "Number":13.0,
+    "Job Title":"Project Manager - CX",
+    "Description":"The Project Manager will be responsible for effective project oversight within our dynamic environment. This role emphasizes managing relationships with stakeholders, ensuring successful project delivery, and driving organizational objectives forward.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/632077567A\/"
+  },
+  {
+    "Number":14.0,
+    "Job Title":"Senior Customer Success Manager",
+    "Description":"At Lucidya, we are on a mission to empower businesses in the MENA region through our advanced AI and big data technologies, leading the way in customer experience management tools specifically designed for the Arabic language.\n\nAs a Senior Customer Success Manager, you will play a crucial role in ensuring our clients achieve their desired outcomes while using our solutions. You will lead and mentor a team of Customer Success professionals, driving engagement, retention, and overall client satisfaction with Lucidya’s products.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/D119124BDF\/"
+  },
+  {
+    "Number":15.0,
+    "Job Title":"(B2B) Paid Media Manager\n",
+    "Description":"We’re looking for an experienced and analytical Paid Media Manager to lead Lucidya’s paid marketing strategy, execution, and optimization across the GCC. As a core member of our Growth Marketing team, you’ll drive high-quality lead acquisition and demand generation via multi-channel paid media campaigns that feed directly into our sales pipeline.\n\nThis is a high-impact role reporting to the Head of Growth Marketing, with cross-functional collaboration with Content, Brand, Product Marketing, and Sales.\n\n",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/32D3ADCE90\/"
+  },
+  {
+    "Number":16.0,
+    "Job Title":"B2B Campaign Manager\n",
+    "Description":"We’re looking for an experienced and results-driven Campaign Manager to lead the execution of integrated marketing campaigns across the GCC region. As a critical member of the Growth Marketing team, you will plan, launch, and optimize campaigns across channels and touchpoints to support demand generation, drive qualified leads, and contribute to revenue growth.\n\nThis is a strategic and hands-on role reporting to the Head of Growth Marketing, with strong collaboration across Paid Media, Content, Product Marketing, and Sales.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/BE407E7CB4\/"
+  },
+  {
+    "Number":17.0,
+    "Job Title":"Compliance Manager\n",
+    "Description":"Lucidya is a leading B2B SaaS company helping brands in the MENA region build stronger customer relationships through AI-powered customer experience analytics.\n\nAs Lucidya continues to grow, we are looking to hire a Compliance Manager to establish and manage our compliance and risk management processes. This role will be integral to the development and implementation of policies and procedures, ensuring that our company adheres to regulations while minimizing risks. The Compliance Manager will report to the Director of Strategy & Performance and collaborate with teams across the organization to ensure compliance is maintained and continuously improved.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/CA82E5EA79\/"
+  },
+  {
+    "Number":18.0,
+    "Job Title":"Graphic Designer",
+    "Description":"As a Graphic Designer at Lucidya, you’ll be responsible for crafting compelling visuals that communicate our brand, product, and message to our diverse audiences. From social media graphics and marketing materials to website assets and event branding, your work will play a key role in how the world sees Lucidya.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/A2E9D61D28\/"
+  },
+  {
+    "Number":19.0,
+    "Job Title":"Security Engineer\n",
+    "Description":"We are seeking a Security Engineer to join our team at Lucidya. As a Security Engineer, your primary responsibility is to design, implement, and maintain the security infrastructure and processes to protect our organization's systems and data.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/2ADA7F23D6\/"
+  },
+  {
+    "Number":20.0,
+    "Job Title":"Senior Account Executive - Enterprise and Public Sector\n",
+    "Description":"We are looking for a highly driven and strategic Senior Account Executive to expand Lucidya’s presence in the Public Sector and Large Enterprises across Saudi Arabia. The ideal candidate will have a strong background in enterprise sales, excellent relationship-building skills, and a proven track record of selling SaaS or AI-driven solutions to government and enterprise clients. This role will be crucial in driving revenue growth and positioning Lucidya as the go-to CX analytics solution for major organizations in the region.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/D592BB37C3\/"
+  },
+  {
+    "Number":21.0,
+    "Job Title":"Software Engineer Lead - Fullstack",
+    "Description":"Join a highly qualified team of engineers dedicated to driving innovation and development in our cutting-edge product, which leverages Machine Learning and Big Data technologies to analyze content from diverse data sources. As a Software Engineer Team Lead, you will play a key role in overseeing the entire development cycle, with a focus on front-end development using ReactJS.\n\nYou will work closely with our UI\/UX designer to transform visual designs into seamless interaction layouts using modern front-end web technologies like HTML5, CSS3, and Material UI. You’ll also ensure smooth integration with back-end systems. In this role, you will collaborate directly with the CTO in an agile yet demanding environment, managing project priorities, mentoring team members, and driving technical excellence.\n\nWe value expertise in the technologies mentioned above and expect a willingness to learn and adapt quickly to new tools and methods, ensuring continuous innovation and success in delivering exceptional products.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/1A419995BF\/"
+  },
+  {
+    "Number":22.0,
+    "Job Title":"Marketing Development Representative (MDR) - Intern",
+    "Description":"This paid internship offers the opportunity to make meaningful contributions to our team while sharpening your skills and expanding your professional network. As a Marketing Development Representative at LUCIDYA, you will play a crucial role in driving our growth initiatives and expanding our customer base. You will be responsible for generating and qualifying leads, engaging potential clients, and nurturing relationships to convert leads into qualified opportunities for our sales team.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/902E1810B3\/"
+  },
+  {
+    "Number":23.0,
+    "Job Title":"Technical Internship or Coop",
+    "Description":"We are looking for interns or coop students to work on short term projects or contribute on developing existing features. As a technical intern, you will join a team of highly qualified team engineers to participate in the innovation and development of our product which uses Machine Learning & Big Data technologies to analyze content from several data sources. You will work directly under the CTO in an agile yet demanding environment. We expect you to be a fast learner to adapt those technologies mentioned above fast. Even though this job doesn’t require experience, we look for very talented candidates with strong programming skills. Lucidya offers a result-driven, fun, and dynamic environment full of challenges.\n\nThis training opportunity is only for graduating students who are looking to satisfy their graduation requirements in the following technical fields:\n\nUI\/UX\nFront-end\nBackend\nEngine and Database\nSystem Administration\nArtificial Intelligence\nCybersecurity",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/72C96C05B4\/"
+  },
+  {
+    "Number":24.0,
+    "Job Title":"Sales Account Executive",
+    "Description":"We are seeking a skilled Sr. Account Executive for managing key client relationships to drive revenue growth. The Account Executive’s role is to oversee a portfolio of assigned list of customers to develop new business and actively seek new sales opportunities.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/0842A492C9\/"
+  },
+  {
+    "Number":25.0,
+    "Job Title":"Tech HR Business Partner",
+    "Description":"Lucidya is a leading customer experience analytics platform powered by AI, enabling organizations across the MENA region to understand and serve their customers better. With a growing remote presence in Egypt, including over approx. 60 engineers, 10 CX professionals, and 5 marketing team members, Lucidya is expanding its People team to better support and engage its distributed talent.\n\n",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/DE199E3811\/"
+  },
+  {
+    "Number":26.0,
+    "Job Title":"UX Researcher",
+    "Description":"Lucidya is looking for a Mid-Level UX Researcher to join our team and help us create seamless, data-driven user experiences. As a UX Researcher at Lucidya, you will play a crucial role in understanding user behaviors, pain points, and needs to shape our product strategy. You will collaborate with product designers, product managers, and engineers to ensure our products are intuitive, accessible, and aligned with user expectations. If you are passionate about user research and want to influence product decisions through data and insights, we want to hear from you!",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/16AAAF7162\/"
+  },
+  {
+    "Number":27.0,
+    "Job Title":"System Administrator",
+    "Description":"You will join a team of highly qualified engineers to continue the innovation and development of our product which uses Machine Learning & Big Data technologies to analyze content from several data sources.\n\nAs a system admin, you will help us manage our cloud resources to ensure the continuity of our service. You will be responsible for configuring and securing our virtual machines, virtual networks and virtual drives and provide support to the development team by providing proper access to our resources. You will also be required to analyze application logs, operating system logs and system performance data to provide preemptive corrective plans. You will also be asked to prepare usage reports and support the CTO in resource planning and cost management. We expect you to learn fast how our system is designed, efficiently troubleshoot any issues and quickly adapt to our fast changing technologies. Lucidya offers a result-driven, fun, and dynamic environment full of challenges. Apply only if scale and complexity excite you.\n\n\n",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/D2D24E9EA4\/"
+  },
+  {
+    "Number":28.0,
+    "Job Title":"DevOps Engineer\n",
+    "Description":"As a DevOps Engineer at Lucidya, your primary purpose is to streamline the software development and deployment processes, fostering collaboration between development and operations teams. Your role is crucial in achieving efficient, automated, and reliable workflows.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/6901CC137A\/"
+  },
+  {
+    "Number":29.0,
+    "Job Title":"Social Media Analyst\n",
+    "Description":"We are looking for an observant and data-driven social media analyst to judge and evaluate the success of social media and web presence of a brand\/campaign\/Initiative by looking at posts' metrics. The social media analyst is responsible for providing feedback to clients and social media \/ CX directors to let them know how a campaign\/brand\/Initiative has been received and how it can be adjusted through professional reports. Social media analysts are responsible for analyzing the performance of social media platforms and their related content. They look at everything from individual posts to entire accounts, tracking metrics like likes, shares, retweets, etc.\n\nHence, creating professional reports that summarize their findings or present them in a more easily digestible format.\n\nThese reports can be requested internally or externally to inform clients about how well their social media efforts are performing.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/8222621DF4\/"
+  },
+  {
+    "Number":30.0,
+    "Job Title":"Graphic Designer - Virtually",
+    "Description":"Responsible for creating and developing a strong, professional visual identity for Lucidya Professional Reports and help\n\nin producing all the department's media communication needs.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/C5D7DA65B5\/"
+  },
+  {
+    "Number":31.0,
+    "Job Title":"Software Engineer - Backend",
+    "Description":"You will join a team of highly qualified team engineers to continue the innovation and development of our product which uses Machine Learning & Big Data technologies to analyze content from several data sources.\n\nAs a developer, you will be working on the backend of our product Lucidya which is built using industry’s latest technologies such as Redis, Postgres and Cassandra and developing APIs using Python and Ruby on Rails. The job also includes DevOps tasks from server setup to maintenance and recovery.\n\nYou will work directly under the Engineering Manager in an agile yet demanding environment. We expect you to be a fast learner to adapt those technologies mentioned above fast.\n\nLucidya offers a result-driven, fun, and dynamic environment full of challenges, We look for very talented candidates with strong programming skills.",
+    "Application Link":"https:\/\/apply.workable.com\/lucidya\/j\/EA389D5257\/"
   }
 ]
